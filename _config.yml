@@ -1,0 +1,10 @@
+title: 邊陲小島
+email: wennynnewenny@gmail.com
+description: 在遙遠的邊陲小島住著一個不愛吃魚愛作夢的捕魚人
+baseurl: ""
+url: "http://yfwu.github.io" 
+twitter_username: zaticwu
+github_username:  yfwu
+
+# Build settings
+markdown: kramdown
