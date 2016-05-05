@@ -10,8 +10,7 @@ permalink: /rnotes/
             hflights <- tbl_df(hflights)
             glimpse(fhlights)
             old.hflights <- as.data.frame(hflights)
-            ```
-     
+            ```   
     - ``data.table``
 - Parallel computation
     - Patch processing
