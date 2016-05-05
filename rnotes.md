@@ -8,11 +8,13 @@ permalink: /rnotes/
 ### ``dplyr``
 
 #### ``tbl``
-``` R
+
+``` r
 hflights <- tbl_df(hflights)
 glimpse(fhlights)
 old.hflights <- as.data.frame(hflights)
-```   
+```
+
 ### ``data.table``
 
 ## Parallel computation
