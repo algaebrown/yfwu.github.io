@@ -1,5 +1,5 @@
 ---
-title: 「思想實驗」之「諾獎讀文會」與「購想追追追」
+title: 「思想實驗」之「諾獎讀文會」與「構想追追追」
 category: idea
 layout: post
 tags: [whatever, nobelprize, workshop, traceback]
