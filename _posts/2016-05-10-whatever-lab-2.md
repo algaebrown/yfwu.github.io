@@ -1,5 +1,5 @@
 ---
-title: 「思想實驗」之「諾獎讀文會」與「構想追追追」
+title: 「思想實驗」延伸
 category: idea
 layout: post
 tags: [whatever, nobelprize, workshop, traceback]
@@ -23,6 +23,7 @@ Traceback 是軟體界的用語，指追出到底錯誤是發生在甚麼地方�
   可以挑一篇當代的，譬如今年或去年的  
   然後一路追回 1950 左右的老文章  
   然後在暸解脈絡上才知道那個 landmark 論文為什麼奇妙  
+  -- Shang-Jui Tsai
 
 不過這樣的樂趣要怎麼團隊進行呢？適合當作某課程的小組報告又或者適合 iGEM 團隊推導構想？
  
