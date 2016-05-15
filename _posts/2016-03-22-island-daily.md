@@ -14,18 +14,18 @@ tags: [daily, islane]
 ![Island Daily](/assets/daily.jpg)
 
 1. 圖示說明：每一個箭頭均爲一個 IFTTT 服務，最粗的那個則是手寫 TypeScript Bot） 
-2. 爲了促進大家理解，學豆泥畫個簡圖圖，手刻各服務 icon ‪#‎低能的要死‬，覺得 powerpoint 是窮宅的陽春 illustrator 
+2. 爲了促進大家理解，學豆泥畫個簡圖圖，手刻各服務 icon（‪低能的要死阿~）‬，覺得 powerpoint 是窮宅的陽春 illustrator 
 3. 微筆記試驗，嘗試用最小的文字、最少的操作，記錄最大的資訊
 
 
 ## 微筆記試驗
 1. Proj.Notes-01：關鍵字to筆記之自動產生器 
-  1. 關鍵字 hashtag
-  2. 未來筆記 高度網狀 
+    1. 關鍵字 hashtag
+    2. 未來筆記 高度網狀 
 1. Proj.Notes-02：網狀源衍筆記 超結構瀏覽界面 
-  1. 自動筆記 自動生長 
-  2. 鏈接 wolframalpha 等，自擴充內容 
-  3. 論文 ref 解析器
+    1. 自動筆記 自動生長 
+    2. 鏈接 wolframalpha 等，自擴充內容 
+    3. 論文 ref 解析器
 
 
 ## 對話摘錄
