@@ -2,12 +2,13 @@
 title: 讀 Hacker News
 category: startup
 tags: [ycombinator, hackernews]
+layout: post
 ---
-對於極端忙碌但是又想要抓住最新科技脈動的人，我推薦每天花一點時間刷一下 [Hacker News](https://news.ycombinator.com/)
+對於極端忙碌但是又想要抓住最新科技脈動的人，我推薦每天花一點時間刷一下 [Hacker News](https://news.ycombinator.com/)，相關説明可以見：[Wikipedia: Hacker News](https://zh.wikipedia.org/wiki/Hacker_News)、[網路人重要資訊來源（一）：Hacker News，超宅但又超重要的資訊集散地](http://www.inside.com.tw/2011/02/15/what-you-should-subscribe-hacker-news-provided-by-y-combinator)
 
 ![Hacker News Screenshot](/assets/hackernews.png)
 
-Hacker News 是美國矽谷最有名的一間創投公司所維護的網路新聞平臺。最大的功能在於通過 up/down vote 來決定文章留存及排名（參考阮一峰的[《基於用戶投票的排名算法（一）》](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)這篇文章。
+Hacker News 是美國矽谷最有名的一間創投公司所維護的網路新聞平臺，用來提交任何「大家會想知道的主題」，不過比較偏電腦科技，**但是最近一年來也多了很多生醫文章**。特色在於通過 up vote 來決定文章留存及排名（參考阮一峰的[《基於用戶投票的排名算法（一）》](http://www.ruanyifeng.com/blog/2012/02/ranking_algorithm_hacker_news.html)這篇文章）。
 
 ## 爲什麽要看？
 
