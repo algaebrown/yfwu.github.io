@@ -6,10 +6,10 @@ tags: [programming, psychology]
 ---
 > 編程是最接近造物主的（不負責任的）活動
 
-主要是在 Hackernews 上面看到一則討論 [Ask HN: What are some good peer-reviewed papers on psychology of programming?](https://news.ycombinator.com/item?id=11895384)。貼給尚叡大大看，並討論之。底下條理化記述我們的想法。
+主要是在 Hackernews 上面看到一則討論 [Ask HN: What are some good peer-reviewed papers on psychology of programming?](https://news.ycombinator.com/item?id=11895384) 把文章貼給尚叡大大看，並討論之。底下條理化記述我們的想法。
 
 ## 關於編程時的心理學
-提問者好奇幾件事情：（註解：``comprehension of programs`` 是
+提問者好奇幾件事情：（註解：``comprehension of programs`` 是編程時那種打字與思考同步的 feel，直白一點就是 **AHA**）
 
 - What are some key factors that affect comprehension of programs? 
 - How would those factors differ within each programming paradigm? 
