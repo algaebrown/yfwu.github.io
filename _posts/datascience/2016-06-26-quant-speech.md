@@ -111,3 +111,6 @@ tags: [quant]
 
 ## 其他
 - [Multicharts](http://www.multicharts.com.tw/)
+- 使用 R 做回測
+    - [Risk and R-multiples](http://www.vantharp.com/tharp-concepts/risk-and-r-multiples.asp)
+    - [Quantmod](http://www.quantmod.com/)
