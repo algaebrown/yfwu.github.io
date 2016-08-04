@@ -1,5 +1,5 @@
 ---
-title: Events
+title: 行程表
 layout: page
 ---
 |Date|Name|

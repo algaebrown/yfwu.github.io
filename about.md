@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 關於
 permalink: /about/
 ---
 Yu-Fu Wu, a medical hacker.

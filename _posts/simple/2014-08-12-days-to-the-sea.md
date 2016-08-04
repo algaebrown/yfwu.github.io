@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 向海的歲月：此岸、彼岸
-category: 隨想
+category: simple
 tags: [向海的歲月]
 ---
 ## 楔子
