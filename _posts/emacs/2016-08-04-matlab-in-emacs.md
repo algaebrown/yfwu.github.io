@@ -28,6 +28,7 @@ category: emacs
 5. 需要注意的是：可能是官方支援度不好？我的 matlab 的 java 介面主程式啟動之後會自己關掉，然而 emacs 裏面用 matlab-shell 倒是非常穩定。
 
 **補充**
+
 1. Matlab 吃舊版本的 libncurses，需要設定
    ``` shell
    sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libncursesw.so.5
@@ -52,6 +53,7 @@ category: emacs
 6. 補充說明：shell-command 設定下去之後，```C-c C-c``` 可以把整個 buffer 送進去執行，而 ```C-c C-r``` 則是將選定的區域送入執行
 
 **補充**
+
 1. 需要確定 matlab 啓動腳本存在於 ``$PATH`` 內.
 
 ## 參考資料
