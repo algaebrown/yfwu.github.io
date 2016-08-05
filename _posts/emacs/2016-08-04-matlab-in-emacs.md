@@ -31,7 +31,7 @@ category: emacs
 
 1. Matlab 吃舊版本的 libncurses，需要設定
  
-    ``` shell
+    ```shell
     sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libncursesw.so.5
     ```
 
@@ -44,7 +44,7 @@ category: emacs
 2. 解壓縮到~/.emacs.d 裏面你喜歡的資料夾
 3. 把下列 elisp 指令加到 init.el 或者其他的設定檔中：
 
-    ``` matlab
+    ```emacs-lisp
     (autoload 'matlab-mode "matlab" "Matlab Editing Mode" t)
     (add-to-list 'auto-mode-alist '("\\.mquot; . matlab-mode))
     (setq matlab-indent-function t)
