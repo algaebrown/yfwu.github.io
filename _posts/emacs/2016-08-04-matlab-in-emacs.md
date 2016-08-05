@@ -30,9 +30,9 @@ category: emacs
 **補充**
 
 1. Matlab 吃舊版本的 libncurses，需要設定
-   ``` shell
-   sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libncursesw.so.5
-   ```
+    ``` shell
+    sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libncursesw.so.5
+    ```
 
 ## 安裝 matlab-mode
 
@@ -42,12 +42,12 @@ category: emacs
 1. 前往本 cvs 存放點取得所需.el 檔案
 2. 解壓縮到~/.emacs.d 裏面你喜歡的資料夾
 3. 把下列 elisp 指令加到 init.el 或者其他的設定檔中：
-   ``` matlab
-   (autoload 'matlab-mode "matlab" "Matlab Editing Mode" t)
-   (add-to-list 'auto-mode-alist '("\\.mquot; . matlab-mode))
-   (setq matlab-indent-function t)
-   (setq matlab-shell-command "matlab")
-   ```
+    ``` matlab
+    (autoload 'matlab-mode "matlab" "Matlab Editing Mode" t)
+    (add-to-list 'auto-mode-alist '("\\.mquot; . matlab-mode))
+    (setq matlab-indent-function t)
+    (setq matlab-shell-command "matlab")
+    ```
 4. 重新啟動或者 eval-current-bufffer 之後，開啟一般的檔案如：function.m，會進入 matlab-mode 可以編輯。
 5. 以 ```M-x matlab-shell``` 可以啟動交互畫面，就跟主程式一樣沒有差別！
 6. 補充說明：shell-command 設定下去之後，```C-c C-c``` 可以把整個 buffer 送進去執行，而 ```C-c C-r``` 則是將選定的區域送入執行
