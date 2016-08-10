@@ -1,6 +1,6 @@
 ---
 title: 向海的歲月：寧靜海的回音
-tags: [novel]
+tags: [向海的歲月]
 layout: post
 category: simple
 ---
