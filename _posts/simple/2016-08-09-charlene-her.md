@@ -39,6 +39,6 @@ LOVE YOU.
 
 如果妳真的出國去了，我就每三個月就飛去美國找妳，反正哥當 PGY、resident 又住宿舍不愁吃住，錢夠買機票！到時候妳可要每三個月做一份成果報告讓我聽唷 :P
 
-然後我的人生志願是到美國的醫療決策輔助公司或研究單位上班，嘻嘻，IBM Watson Research Center 是我目前的目標，微軟或 Google 的 Verily 也不錯。BTW，剛打完這串字，知道 Hazalyst 的 phase-VI drug interaction model project 被匹茲堡大學的 NIH 研究單位列入評估名單，跟妳分享這個喜悅與壓力 :P
+然後我的人生志願是到美國的醫療決策輔助公司或研究單位上班，嘻嘻，IBM Watson Research Center 是我目前的目標，微軟或 Google 的 Verily 也不錯。BTW，剛打完這串字，知道 Hazalyst 的 phase-IV drug interaction model project 被匹茲堡大學的 NIH 研究單位列入評估名單，跟妳分享這個喜悅與壓力 :P
 
 大呆 筆 2016-08-17
