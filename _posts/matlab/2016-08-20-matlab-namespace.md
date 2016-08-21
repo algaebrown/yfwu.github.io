@@ -4,7 +4,7 @@ layout: post
 category: matlab
 tags: [matlab, function, project]
 ---
-跟女朋友討論 Matlab 專案的資料夾結構，我提到不少程式語言都是把類似用途的函數放在同一個檔案內，然後通過 TDD（test-driven development）的流程來控管，並且在檔案互相呼叫下，可以有效以 **namespace** 的特性避免衝突。但是，matlab 似乎沒有這種特性？於是使得目錄下面有數十個 matlab 的 ``.m`` 檔案。這篇嘗試深入瞭解一下這個問題及是否有 namespace 的替代方案。
+跟小呆討論 Matlab 專案的資料夾結構，我提到不少程式語言都是把類似用途的函數放在同一個檔案內，然後通過 TDD（test-driven development）的流程來控管，並且在檔案互相呼叫下，可以有效以 **namespace** 的特性避免衝突。但是，matlab 似乎沒有這種特性？於是使得目錄下面有數十個 matlab 的 ``.m`` 檔案。這篇嘗試深入瞭解一下這個問題及是否有 namespace 的替代方案。
 
 ## Local Functions
 
