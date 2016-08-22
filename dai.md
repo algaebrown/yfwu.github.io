@@ -45,4 +45,16 @@ tags: [dai]
 - Udacity 
     - [Introduction to Descriptive Statistics](https://classroom.udacity.com/courses/ud827) ``2016-07-19``
 
+## Project Ouline for Titansoft
+- Special Task for  Hsuanlin ``2016-08-22``
+    - Learn R on Data Camp
+- Working strategy
+    - On cloud 9? 
+    - git?
+- To do list   
+    - literature review on prediction of financiald derivatives
+    - Data visualization: k-mean clustering.
+    - learn ML basics:  Arpriori algorithm, SVM, Baysians 
+    - a quick and dirty model using regression, then try other models(SVM, ANN, Baysian Models)
+    - Learn recommander system
 
